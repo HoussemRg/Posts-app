@@ -1,0 +1,25 @@
+.link{
+    text-decoration: none;
+    color: beige;
+}
+.nav-item{
+    margin-left:50px;
+    padding:10px;
+    
+}
+.post{
+    margin-left: 10px;
+}
+#navbarNav{
+    display:flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.navbar{
+    background-color: rgb(17, 3, 80);
+    
+}
+.img{
+    width:100px;
+    height:50px;
+}

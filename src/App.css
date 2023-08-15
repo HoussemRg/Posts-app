@@ -1,10 +1,15 @@
 .App {
   text-align: center;
+  color:white;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.container{
+  text-align: center;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
